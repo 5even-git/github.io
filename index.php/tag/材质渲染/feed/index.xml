@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>材质渲染 &#8211; 大柒5even</title>
+	<atom:link href="/index.php/tag/%E6%9D%90%E8%B4%A8%E6%B8%B2%E6%9F%93/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 26 Sep 2023 01:58:34 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>【免废分享 #1】Adobe Icons</title>
+		<link>/index.php/2022/05/17/mffx-1-adobe-icons/</link>
+		
+		<dc:creator><![CDATA[5even]]></dc:creator>
+		<pubDate>Tue, 17 May 2022 01:38:39 +0000</pubDate>
+				<category><![CDATA[博文·Blog]]></category>
+		<category><![CDATA[C4D]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[平面设计]]></category>
+		<category><![CDATA[材质渲染]]></category>
+		<category><![CDATA[设计软件]]></category>
+		<guid isPermaLink="false">/?p=34</guid>
+
+					<description><![CDATA[最近我把曾经做过的一些飞机稿整...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;">最近我把曾经做过的一些飞机稿整理出来，<br />
+发现还是有些有意思的东西。<br />
+如果一直留在硬盘里的话就和废品一样没有什么意义了，<br />
+所以完善下整理好，发出来分享给大家。<br />
+作为“免废分享”</p>
+<p style="text-align: center;">Adobe家的软件已经用了十几年，<br />
+最有感情的还是彩色边框的那几代。<br />
+于是建模做材质搞了下渲染做了这样一套图标，<br />
+效果图如下所见。</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2023/09/IS.jpg"><img decoding="async" fetchpriority="high" class="size-full wp-image-36 aligncenter" src="/wp-content/uploads/2023/09/IS.jpg" alt="" width="1440" height="800" srcset="/wp-content/uploads/2023/09/IS.jpg 1440w, /wp-content/uploads/2023/09/IS-300x167.jpg 300w, /wp-content/uploads/2023/09/IS-1024x569.jpg 1024w, /wp-content/uploads/2023/09/IS-768x427.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></a></p>
+<p style="text-align: center;">再来张全家福</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2023/09/IS.1平铺.jpg"><img decoding="async" class="size-full wp-image-37 aligncenter" src="/wp-content/uploads/2023/09/IS.1平铺.jpg" alt="" width="1440" height="800" srcset="/wp-content/uploads/2023/09/IS.1平铺.jpg 1440w, /wp-content/uploads/2023/09/IS.1平铺-300x167.jpg 300w, /wp-content/uploads/2023/09/IS.1平铺-1024x569.jpg 1024w, /wp-content/uploads/2023/09/IS.1平铺-768x427.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></a></p>
+<p style="text-align: center;">我在自己的电脑上试了一下，体验大约是这样式儿的。</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2023/09/Adobe-Icons.gif"><img decoding="async" class="size-full wp-image-38 aligncenter" src="/wp-content/uploads/2023/09/Adobe-Icons.gif" alt="" width="1120" height="208" /></a></p>
+<p style="text-align: center;">好了，废话不多说，直接上链接。<br />
+Enjoy it！</p>
+<p style="text-align: center;"><a href="https://www.dropbox.com/s/luys6jnf44antxs/Adobe%20Icons.zip?dl=0"><img decoding="async" loading="lazy" class="aligncenter wp-image-39 size-full" src="/wp-content/uploads/2023/09/dbdl.png" alt="" width="300" height="50" /></a></p>
+<p style="text-align: center;"><a href="https://pan.baidu.com/s/1cx9ridtskKwoQqdNZ-tXtw?pwd=jq9v"><img decoding="async" loading="lazy" class="aligncenter wp-image-40 size-full" src="/wp-content/uploads/2023/09/baidudl.png" alt="" width="300" height="50" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

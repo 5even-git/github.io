@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>portfolio &#8211; 5even</title>
+	<title>portfolio &#8211; Resonance.</title>
 	<atom:link href="/author/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
-	<lastBuildDate>Mon, 02 Oct 2023 12:52:48 +0000</lastBuildDate>
+	<description>5even.me</description>
+	<lastBuildDate>Tue, 03 Oct 2023 01:20:44 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,7 +25,7 @@
 		
 		<dc:creator><![CDATA[portfolio]]></dc:creator>
 		<pubDate>Mon, 02 Oct 2023 09:35:30 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Works]]></category>
 		<guid isPermaLink="false">/?p=83</guid>
 
 					<description><![CDATA[ceshiyong wenzi测试用文字ceshiyong wenzi测试用文字ceshiyong wenzi [&#8230;]]]></description>

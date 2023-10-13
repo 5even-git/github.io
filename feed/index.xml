@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>5even.me</description>
-	<lastBuildDate>Fri, 13 Oct 2023 09:08:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Oct 2023 09:26:16 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -319,7 +319,7 @@
 		
 			</item>
 		<item>
-		<title>“esint”DM画册</title>
+		<title>“Esint”DM画册</title>
 		<link>/esintdm/</link>
 		
 		<dc:creator><![CDATA[Xiao Zijin]]></dc:creator>

@@ -12,7 +12,7 @@
 	<atom:link href="/author/xiao-zijin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>5even.me</description>
-	<lastBuildDate>Mon, 16 Oct 2023 09:28:58 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Oct 2023 08:15:37 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,40 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
+		<title>ESS车辆扫描检修系统</title>
+		<link>/ess/</link>
+		
+		<dc:creator><![CDATA[Xiao Zijin]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2022 07:04:00 +0000</pubDate>
+				<category><![CDATA[Works]]></category>
+		<guid isPermaLink="false">/?p=410</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image alignwide size-full"><img decoding="async" fetchpriority="high" width="1440" height="810" src="/wp-content/uploads/2023/10/Hud-F-F-0-00-03-16.jpg" alt="" class="wp-image-411" srcset="/wp-content/uploads/2023/10/Hud-F-F-0-00-03-16.jpg 1440w, /wp-content/uploads/2023/10/Hud-F-F-0-00-03-16-300x169.jpg 300w, /wp-content/uploads/2023/10/Hud-F-F-0-00-03-16-1024x576.jpg 1024w, /wp-content/uploads/2023/10/Hud-F-F-0-00-03-16-768x432.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+
+
+
+<figure class="wp-block-image alignwide size-full"><img decoding="async" width="1440" height="810" src="/wp-content/uploads/2023/10/Hud-F-F-0-00-16-24.jpg" alt="" class="wp-image-413" srcset="/wp-content/uploads/2023/10/Hud-F-F-0-00-16-24.jpg 1440w, /wp-content/uploads/2023/10/Hud-F-F-0-00-16-24-300x169.jpg 300w, /wp-content/uploads/2023/10/Hud-F-F-0-00-16-24-1024x576.jpg 1024w, /wp-content/uploads/2023/10/Hud-F-F-0-00-16-24-768x432.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+
+
+
+<figure class="wp-block-image alignwide size-full"><img decoding="async" width="1440" height="810" src="/wp-content/uploads/2023/10/Hud-F-F-0-00-12-06.jpg" alt="" class="wp-image-412" srcset="/wp-content/uploads/2023/10/Hud-F-F-0-00-12-06.jpg 1440w, /wp-content/uploads/2023/10/Hud-F-F-0-00-12-06-300x169.jpg 300w, /wp-content/uploads/2023/10/Hud-F-F-0-00-12-06-1024x576.jpg 1024w, /wp-content/uploads/2023/10/Hud-F-F-0-00-12-06-768x432.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+
+
+
+<figure class="wp-block-image alignwide size-full"><img decoding="async" loading="lazy" width="1440" height="810" src="/wp-content/uploads/2023/10/Hud-F-F-0-00-24-02.jpg" alt="" class="wp-image-414" srcset="/wp-content/uploads/2023/10/Hud-F-F-0-00-24-02.jpg 1440w, /wp-content/uploads/2023/10/Hud-F-F-0-00-24-02-300x169.jpg 300w, /wp-content/uploads/2023/10/Hud-F-F-0-00-24-02-1024x576.jpg 1024w, /wp-content/uploads/2023/10/Hud-F-F-0-00-24-02-768x432.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+
+
+
+<figure class="wp-block-video alignwide"><video controls src="/wp-content/uploads/2023/10/Hud-F-F_1.mp4"></video></figure>
+]]></content:encoded>
+					
+		
+		<enclosure url="/wp-content/uploads/2023/10/Hud-F-F_1.mp4" length="9714874" type="video/mp4" />
+
+			</item>
+		<item>
 		<title>Adobe  Icons</title>
 		<link>/adobe-icons/</link>
 		
@@ -36,16 +70,16 @@
 
 
 
-<figure class="wp-block-image alignwide size-full"><img decoding="async" fetchpriority="high" width="1440" height="800" src="/wp-content/uploads/2023/10/IS.1平铺.jpg" alt="" class="wp-image-386" srcset="/wp-content/uploads/2023/10/IS.1平铺.jpg 1440w, /wp-content/uploads/2023/10/IS.1平铺-300x167.jpg 300w, /wp-content/uploads/2023/10/IS.1平铺-1024x569.jpg 1024w, /wp-content/uploads/2023/10/IS.1平铺-768x427.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+<figure class="wp-block-image alignwide size-full"><img decoding="async" loading="lazy" width="1440" height="800" src="/wp-content/uploads/2023/10/IS.1平铺.jpg" alt="" class="wp-image-386" srcset="/wp-content/uploads/2023/10/IS.1平铺.jpg 1440w, /wp-content/uploads/2023/10/IS.1平铺-300x167.jpg 300w, /wp-content/uploads/2023/10/IS.1平铺-1024x569.jpg 1024w, /wp-content/uploads/2023/10/IS.1平铺-768x427.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
 
 
 
 <div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-2 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full"><img decoding="async" width="1440" height="800" src="/wp-content/uploads/2023/10/IS-2.jpg" alt="" class="wp-image-383" srcset="/wp-content/uploads/2023/10/IS-2.jpg 1440w, /wp-content/uploads/2023/10/IS-2-300x167.jpg 300w, /wp-content/uploads/2023/10/IS-2-1024x569.jpg 1024w, /wp-content/uploads/2023/10/IS-2-768x427.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1440" height="800" src="/wp-content/uploads/2023/10/IS-2.jpg" alt="" class="wp-image-383" srcset="/wp-content/uploads/2023/10/IS-2.jpg 1440w, /wp-content/uploads/2023/10/IS-2-300x167.jpg 300w, /wp-content/uploads/2023/10/IS-2-1024x569.jpg 1024w, /wp-content/uploads/2023/10/IS-2-768x427.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1440" height="800" src="/wp-content/uploads/2023/10/IS.jpg" alt="" class="wp-image-382" srcset="/wp-content/uploads/2023/10/IS.jpg 1440w, /wp-content/uploads/2023/10/IS-300x167.jpg 300w, /wp-content/uploads/2023/10/IS-1024x569.jpg 1024w, /wp-content/uploads/2023/10/IS-768x427.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1440" height="800" src="/wp-content/uploads/2023/10/IS.jpg" alt="" class="wp-image-382" srcset="/wp-content/uploads/2023/10/IS.jpg 1440w, /wp-content/uploads/2023/10/IS-300x167.jpg 300w, /wp-content/uploads/2023/10/IS-1024x569.jpg 1024w, /wp-content/uploads/2023/10/IS-768x427.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
 </div>
 
 
@@ -195,6 +229,35 @@
 		
 			</item>
 		<item>
+		<title>文化交流课程卡通IP</title>
+		<link>/ip_jytj/</link>
+		
+		<dc:creator><![CDATA[Xiao Zijin]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2020 07:36:00 +0000</pubDate>
+				<category><![CDATA[Works]]></category>
+		<guid isPermaLink="false">/?p=442</guid>
+
+					<description><![CDATA[“跨文化那点事儿”是我的一个在高校任职的朋友独创的一门课程。其实说是一门课程，它更像是一场中外文化交流的论坛。 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-12 wp-block-group-is-layout-flex">
+<p class="has-small-font-size">“跨文化那点事儿”是我的一个在高校任职的朋友独创的一门课程。其实说是一门课程，它更像是一场中外文化交流的论坛。众多的中国学生能有机会和各国的留学生交流自己故乡的生活习惯和风土民情。<br>鸡同鸭讲这个词儿有完全没法沟通的意味，而“鸡鸭同讲”的创意是这位老师自己的点子，哈哈…… 意在不管语言上有多大的障碍，观念上有多大的差别，也不妨害各大家愉快的交流。<br>教材的封面配色和风格采用了古代天方，也就是现在中东、西亚一代的民族风格。原因也很简单，自古天方即是东西方经济、文化交流的中心。</p>
+</div>
+
+
+
+<div class="wp-block-group alignwide is-content-justification-center is-nowrap is-layout-flex wp-container-13 wp-block-group-is-layout-flex">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" width="1080" height="1080" src="/wp-content/uploads/2023/10/画板-1-80.jpg" alt="" class="wp-image-443" style="width:1080px" srcset="/wp-content/uploads/2023/10/画板-1-80.jpg 1080w, /wp-content/uploads/2023/10/画板-1-80-300x300.jpg 300w, /wp-content/uploads/2023/10/画板-1-80-1024x1024.jpg 1024w, /wp-content/uploads/2023/10/画板-1-80-150x150.jpg 150w, /wp-content/uploads/2023/10/画板-1-80-768x768.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
+</div>
+
+
+
+<figure class="wp-block-image alignwide size-full"><img decoding="async" loading="lazy" width="1440" height="960" src="/wp-content/uploads/2023/10/《跨文化那点事儿》封面设计-3.jpg" alt="" class="wp-image-444" srcset="/wp-content/uploads/2023/10/《跨文化那点事儿》封面设计-3.jpg 1440w, /wp-content/uploads/2023/10/《跨文化那点事儿》封面设计-3-300x200.jpg 300w, /wp-content/uploads/2023/10/《跨文化那点事儿》封面设计-3-1024x683.jpg 1024w, /wp-content/uploads/2023/10/《跨文化那点事儿》封面设计-3-768x512.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>“M.Q Studio”-APP</title>
 		<link>/mqapp/</link>
 		
@@ -209,7 +272,7 @@
 
 
 
-<div class="wp-block-group alignwide is-vertical is-content-justification-center is-layout-flex wp-container-12 wp-block-group-is-layout-flex">
+<div class="wp-block-group alignwide is-vertical is-content-justification-center is-layout-flex wp-container-14 wp-block-group-is-layout-flex">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1920" height="1280" src="/wp-content/uploads/2023/10/iPhone6_2.jpg" alt="" class="wp-image-303" srcset="/wp-content/uploads/2023/10/iPhone6_2.jpg 1920w, /wp-content/uploads/2023/10/iPhone6_2-300x200.jpg 300w, /wp-content/uploads/2023/10/iPhone6_2-1024x683.jpg 1024w, /wp-content/uploads/2023/10/iPhone6_2-768x512.jpg 768w, /wp-content/uploads/2023/10/iPhone6_2-1536x1024.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
 
 
@@ -238,6 +301,39 @@
 		
 			</item>
 		<item>
+		<title>杭州三院HIS系统</title>
+		<link>/his/</link>
+		
+		<dc:creator><![CDATA[Xiao Zijin]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2020 07:42:00 +0000</pubDate>
+				<category><![CDATA[Works]]></category>
+		<guid isPermaLink="false">/?p=447</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-group alignwide is-vertical is-content-justification-center is-layout-flex wp-container-15 wp-block-group-is-layout-flex">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1440" height="1080" src="/wp-content/uploads/2023/10/his-9.jpg" alt="" class="wp-image-449" srcset="/wp-content/uploads/2023/10/his-9.jpg 1440w, /wp-content/uploads/2023/10/his-9-300x225.jpg 300w, /wp-content/uploads/2023/10/his-9-1024x768.jpg 1024w, /wp-content/uploads/2023/10/his-9-768x576.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /><figcaption class="wp-element-caption"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color"><sup>病房医生站——手术排班计划</sup></mark></figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1440" height="1080" src="/wp-content/uploads/2023/10/his-8.jpg" alt="" class="wp-image-450" srcset="/wp-content/uploads/2023/10/his-8.jpg 1440w, /wp-content/uploads/2023/10/his-8-300x225.jpg 300w, /wp-content/uploads/2023/10/his-8-1024x768.jpg 1024w, /wp-content/uploads/2023/10/his-8-768x576.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /><figcaption class="wp-element-caption"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color"><sup>手术排班管理</sup></mark></figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-group alignwide is-vertical is-content-justification-center is-layout-flex wp-container-16 wp-block-group-is-layout-flex">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1440" height="1080" src="/wp-content/uploads/2023/10/his-3-1.jpg" alt="" class="wp-image-451" srcset="/wp-content/uploads/2023/10/his-3-1.jpg 1440w, /wp-content/uploads/2023/10/his-3-1-300x225.jpg 300w, /wp-content/uploads/2023/10/his-3-1-1024x768.jpg 1024w, /wp-content/uploads/2023/10/his-3-1-768x576.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /><figcaption class="wp-element-caption"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color"><sup>住院诊断-工作台</sup></mark></figcaption></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1440" height="1080" src="/wp-content/uploads/2023/10/his-4.jpg" alt="" class="wp-image-452" srcset="/wp-content/uploads/2023/10/his-4.jpg 1440w, /wp-content/uploads/2023/10/his-4-300x225.jpg 300w, /wp-content/uploads/2023/10/his-4-1024x768.jpg 1024w, /wp-content/uploads/2023/10/his-4-768x576.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /><figcaption class="wp-element-caption"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color"><sup>住院诊断-详细</sup></mark></figcaption></figure>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>“骰客Toker”游戏期刊</title>
 		<link>/toker/</link>
 		
@@ -248,7 +344,7 @@
 
 					<description><![CDATA[“骰客 Toker”是一本以桌游及周边文化为内容的刊物,取义桌游中常见的标志物token。它从不同主题和不同的 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-13 wp-block-group-is-layout-flex">
+<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-17 wp-block-group-is-layout-flex">
 <p>“骰客 Toker”是一本以桌游及周边文化为内容的刊物,取义桌游中常见的标志物token。<br>它从不同主题和不同的视角对某一款桌游及其相关文化进行介绍或评述，并对他的故事背景延展开来探讨。<br>这是一本以民间桌游团体自娱为目的的自发刊物，旨在和更多朋友分享快乐、传播桌游文化，不含商业性广告成分和防腐剂:)</p>
 </div>
 
@@ -277,6 +373,33 @@
 		
 			</item>
 		<item>
+		<title>M.Queen  时尚造型海报</title>
+		<link>/m-queen-post/</link>
+		
+		<dc:creator><![CDATA[Xiao Zijin]]></dc:creator>
+		<pubDate>Sun, 24 May 2020 07:16:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=418</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery alignwide has-nested-images columns-default is-cropped wp-block-gallery-18 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="960" height="720" data-id="420" src="/wp-content/uploads/2023/10/mqpf22.jpg" alt="" class="wp-image-420" srcset="/wp-content/uploads/2023/10/mqpf22.jpg 960w, /wp-content/uploads/2023/10/mqpf22-300x225.jpg 300w, /wp-content/uploads/2023/10/mqpf22-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="419" src="/wp-content/uploads/2023/10/22-1024x683.jpg" alt="" class="wp-image-419" srcset="/wp-content/uploads/2023/10/22-1024x683.jpg 1024w, /wp-content/uploads/2023/10/22-300x200.jpg 300w, /wp-content/uploads/2023/10/22-768x512.jpg 768w, /wp-content/uploads/2023/10/22.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1440" height="2060" src="/wp-content/uploads/2023/10/mz.jpg" alt="" class="wp-image-421" srcset="/wp-content/uploads/2023/10/mz.jpg 1440w, /wp-content/uploads/2023/10/mz-210x300.jpg 210w, /wp-content/uploads/2023/10/mz-716x1024.jpg 716w, /wp-content/uploads/2023/10/mz-768x1099.jpg 768w, /wp-content/uploads/2023/10/mz-1074x1536.jpg 1074w, /wp-content/uploads/2023/10/mz-1432x2048.jpg 1432w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>网络监管系统数据可视化</title>
 		<link>/dsjkdh/</link>
 		
@@ -291,7 +414,7 @@
 
 
 
-<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-14 wp-block-group-is-layout-flex">
+<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-20 wp-block-group-is-layout-flex">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1366" height="768" src="/wp-content/uploads/2023/10/监督检查.jpg" alt="" class="wp-image-266" srcset="/wp-content/uploads/2023/10/监督检查.jpg 1366w, /wp-content/uploads/2023/10/监督检查-300x169.jpg 300w, /wp-content/uploads/2023/10/监督检查-1024x576.jpg 1024w, /wp-content/uploads/2023/10/监督检查-768x432.jpg 768w" sizes="(max-width: 1366px) 100vw, 1366px" /><figcaption class="wp-element-caption"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color"><sup>对下属单位网络系统监督检查</sup></mark></figcaption></figure>
 
 
@@ -301,137 +424,13 @@
 
 
 
-<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-15 wp-block-group-is-layout-flex">
+<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-21 wp-block-group-is-layout-flex">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1366" height="768" src="/wp-content/uploads/2023/10/通报处置.jpg" alt="" class="wp-image-268" srcset="/wp-content/uploads/2023/10/通报处置.jpg 1366w, /wp-content/uploads/2023/10/通报处置-300x169.jpg 300w, /wp-content/uploads/2023/10/通报处置-1024x576.jpg 1024w, /wp-content/uploads/2023/10/通报处置-768x432.jpg 768w" sizes="(max-width: 1366px) 100vw, 1366px" /><figcaption class="wp-element-caption"><sup><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">网络安全事件的实时资讯及处置</mark></sup></figcaption></figure>
 
 
 
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1366" height="768" src="/wp-content/uploads/2023/10/等保管理.jpg" alt="" class="wp-image-269" srcset="/wp-content/uploads/2023/10/等保管理.jpg 1366w, /wp-content/uploads/2023/10/等保管理-300x169.jpg 300w, /wp-content/uploads/2023/10/等保管理-1024x576.jpg 1024w, /wp-content/uploads/2023/10/等保管理-768x432.jpg 768w" sizes="(max-width: 1366px) 100vw, 1366px" /><figcaption class="wp-element-caption"><sup><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">通过大数据系统宏观查看网络情况</mark></sup></figcaption></figure>
 </div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>宠物商城App、Icon</title>
-		<link>/pets_store/</link>
-		
-		<dc:creator><![CDATA[Xiao Zijin]]></dc:creator>
-		<pubDate>Wed, 16 Oct 2019 09:26:00 +0000</pubDate>
-				<category><![CDATA[Works]]></category>
-		<guid isPermaLink="false">/?p=405</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image alignwide size-full"><img decoding="async" loading="lazy" width="1440" height="960" src="/wp-content/uploads/2023/10/宠物商城App-1.jpg" alt="" class="wp-image-406" srcset="/wp-content/uploads/2023/10/宠物商城App-1.jpg 1440w, /wp-content/uploads/2023/10/宠物商城App-1-300x200.jpg 300w, /wp-content/uploads/2023/10/宠物商城App-1-1024x683.jpg 1024w, /wp-content/uploads/2023/10/宠物商城App-1-768x512.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
-
-
-
-<figure class="wp-block-image alignwide size-full"><img decoding="async" loading="lazy" width="1440" height="1006" src="/wp-content/uploads/2023/10/宠物商城App-2.jpg" alt="" class="wp-image-407" srcset="/wp-content/uploads/2023/10/宠物商城App-2.jpg 1440w, /wp-content/uploads/2023/10/宠物商城App-2-300x210.jpg 300w, /wp-content/uploads/2023/10/宠物商城App-2-1024x715.jpg 1024w, /wp-content/uploads/2023/10/宠物商城App-2-768x537.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>“海友食品”Icon动效</title>
-		<link>/hy_loading/</link>
-		
-		<dc:creator><![CDATA[Xiao Zijin]]></dc:creator>
-		<pubDate>Fri, 11 Oct 2019 01:50:00 +0000</pubDate>
-				<category><![CDATA[Works]]></category>
-		<category><![CDATA[App]]></category>
-		<category><![CDATA[UI]]></category>
-		<category><![CDATA[动效]]></category>
-		<guid isPermaLink="false">/?p=216</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image alignwide size-full"><img decoding="async" loading="lazy" width="1366" height="768" src="/wp-content/uploads/2023/10/Cover_HY_Icon.jpg" alt="" class="wp-image-217" srcset="/wp-content/uploads/2023/10/Cover_HY_Icon.jpg 1366w, /wp-content/uploads/2023/10/Cover_HY_Icon-300x169.jpg 300w, /wp-content/uploads/2023/10/Cover_HY_Icon-1024x576.jpg 1024w, /wp-content/uploads/2023/10/Cover_HY_Icon-768x432.jpg 768w" sizes="(max-width: 1366px) 100vw, 1366px" /></figure>
-
-
-
-<div class="wp-block-group alignwide is-content-justification-center is-nowrap is-layout-flex wp-container-16 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="320" height="180" src="/wp-content/uploads/2023/10/Tunas_1.gif" alt="" class="wp-image-225"/></figure>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="320" height="180" src="/wp-content/uploads/2023/10/Salmon_1.gif" alt="" class="wp-image-224"/></figure>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="320" height="180" src="/wp-content/uploads/2023/10/Pomfret_1.gif" alt="" class="wp-image-223"/></figure>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="320" height="180" src="/wp-content/uploads/2023/10/Octopus_1.gif" alt="" class="wp-image-222"/></figure>
-</div>
-
-
-
-<div class="wp-block-group alignwide is-content-justification-center is-nowrap is-layout-flex wp-container-17 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="320" height="180" src="/wp-content/uploads/2023/10/Mussel_1.gif" alt="" class="wp-image-221"/></figure>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="320" height="180" src="/wp-content/uploads/2023/10/inkfish_1.gif" alt="" class="wp-image-220"/></figure>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="320" height="180" src="/wp-content/uploads/2023/10/Flatfish_1.gif" alt="" class="wp-image-219"/></figure>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="320" height="180" src="/wp-content/uploads/2023/10/Crab_1.gif" alt="" class="wp-image-218"/></figure>
-</div>
-
-
-
-<div class="wp-block-group alignwide is-vertical is-content-justification-center is-nowrap is-layout-flex wp-container-18 wp-block-group-is-layout-flex">
-<figure class="wp-block-video"><video controls src="/wp-content/uploads/2019/10/FULL-HD.mp4"></video></figure>
-</div>
-]]></content:encoded>
-					
-		
-		<enclosure url="/wp-content/uploads/2019/10/FULL-HD.mp4" length="11930876" type="video/mp4" />
-
-			</item>
-		<item>
-		<title>上海汇言科技论坛Logo</title>
-		<link>/logo_hy/</link>
-		
-		<dc:creator><![CDATA[Xiao Zijin]]></dc:creator>
-		<pubDate>Wed, 11 Sep 2019 07:32:00 +0000</pubDate>
-				<category><![CDATA[Works]]></category>
-		<guid isPermaLink="false">/?p=311</guid>
-
-					<description><![CDATA[该论坛由上海市徐汇区政协联手市政协经济委主办。上海市政协，市人大财经委，及各区政协的领导、多家企业的代表，人工 [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-block-group alignwide is-content-justification-left is-nowrap is-layout-flex wp-container-19 wp-block-group-is-layout-flex">
-<p class="has-small-font-size">该论坛由上海市徐汇区政协联手市政协经济委主办。上海市政协，市人大财经委，及各区政协的领导、多家企业的代表，人工智能技术爱好者等600余人参加此次论坛。由上海市徐汇区政协主席胡敏主持论坛开幕式。<br>圆桌论坛中，来自政府、高校、企业等各领域的人工智能专家们，围绕“人工智能推动产 业发展的上海范本”主题，展开交流讨论，碰撞出思想火花。<br>从人工智能的理论逻辑、技术趋势、产业影响、人才培养和公共治理等，多角度解析上海人工智能发展路线图，以及上海作为人工智能高地在创新应用、产业格局、智慧成果上的发展方向及未来走势。<br>本次Logo设计应用于会场及与会相关线上线下宣传等各领域，需直观而涵盖深意。Logo的造型由简体汉字“汇”和“言”组成。其中由“汇”字的三点水和“言”字中间两横相结合完成创意造型。主体造型如漏斗形，取义汇集、汇合、集合的意义；<br>同时，反观又如喇叭的形状，代表了“言”的发声、表达言论、发出观点的概念。Logo表达了百家争鸣、开放、博采众长的深意。</p>
-</div>
-
-
-
-<figure class="wp-block-image alignwide size-full"><img decoding="async" loading="lazy" width="1920" height="1419" src="/wp-content/uploads/2023/10/112145-5.jpg" alt="" class="wp-image-312" srcset="/wp-content/uploads/2023/10/112145-5.jpg 1920w, /wp-content/uploads/2023/10/112145-5-300x222.jpg 300w, /wp-content/uploads/2023/10/112145-5-1024x757.jpg 1024w, /wp-content/uploads/2023/10/112145-5-768x568.jpg 768w, /wp-content/uploads/2023/10/112145-5-1536x1135.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>“海友食品”产品包装</title>
-		<link>/packag_hy/</link>
-		
-		<dc:creator><![CDATA[Xiao Zijin]]></dc:creator>
-		<pubDate>Sat, 18 May 2019 09:03:00 +0000</pubDate>
-				<category><![CDATA[Works]]></category>
-		<guid isPermaLink="false">/?p=370</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image alignwide size-large"><img decoding="async" loading="lazy" width="1024" height="513" src="/wp-content/uploads/2023/10/木桌面BANNER-1024x513.jpg" alt="" class="wp-image-371" srcset="/wp-content/uploads/2023/10/木桌面BANNER-1024x513.jpg 1024w, /wp-content/uploads/2023/10/木桌面BANNER-300x150.jpg 300w, /wp-content/uploads/2023/10/木桌面BANNER-768x385.jpg 768w, /wp-content/uploads/2023/10/木桌面BANNER-1536x770.jpg 1536w, /wp-content/uploads/2023/10/木桌面BANNER.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 ]]></content:encoded>
 					
 		

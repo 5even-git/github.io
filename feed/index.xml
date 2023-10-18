@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>5even.me</description>
-	<lastBuildDate>Tue, 17 Oct 2023 08:15:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Oct 2023 01:11:28 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -65,7 +65,7 @@
 					<description><![CDATA[最近我把曾经做过的一些飞机稿整理出来，发现还是有些有意思的东西。如果一直留在硬盘里的话就和废品一样没有什么意义 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-1 wp-block-group-is-layout-flex">
-<p>最近我把曾经做过的一些飞机稿整理出来，发现还是有些有意思的东西。<br>如果一直留在硬盘里的话就和废品一样没有什么意义了，所以完善下整理好，发出来分享给大家。<br><br>Adobe家的软件已经用了十几年，最有感情的还是彩色边框的那几代。于是建模做材质搞了下渲染做了这样一套图标，效果图如下所见。</p>
+<p class="has-primary-color has-text-color has-small-font-size">最近我把曾经做过的一些飞机稿整理出来，发现还是有些有意思的东西。<br>如果一直留在硬盘里的话就和废品一样没有什么意义了，所以完善下整理好，发出来分享给大家。<br><br>Adobe家的软件已经用了十几年，最有感情的还是彩色边框的那几代。于是建模做材质搞了下渲染做了这样一套图标，效果图如下所见。</p>
 </div>
 
 
@@ -98,7 +98,7 @@
 
 
 
-<p>好了，废话不多说，直接上链接。Enjoy it！</p>
+<p class="has-text-align-center has-primary-color has-text-color has-small-font-size">好了，废话不多说，直接上链接。Enjoy it！</p>
 
 
 
@@ -126,7 +126,7 @@
 					<description><![CDATA[“科宜友”是一家专业的IT硬件服务商。在机房网络架设、安保监控安装、规划咨询、敷设安装、调试、维保等多方面具有 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-group alignwide is-vertical is-layout-flex wp-container-5 wp-block-group-is-layout-flex">
-<p class="has-small-font-size">“科宜友”是一家专业的IT硬件服务商。在机房网络架设、安保监控安装、规划咨询、敷设安装、调试、维保等多方面具有专业的技术实力和市场资源。<br>这次的项目目标是采用多种大型户外媒体，达到更强的知名效果，扩展品牌的知名度。创意方面用C4D建模各类线缆、元件、PCB电路等IT硬件元素组合成“KEYIYOU”的英文造型。</p>
+<p class="has-primary-color has-text-color has-small-font-size">“科宜友”是一家专业的IT硬件服务商。在机房网络架设、安保监控安装、规划咨询、敷设安装、调试、维保等多方面具有专业的技术实力和市场资源。<br>这次的项目目标是采用多种大型户外媒体，达到更强的知名效果，扩展品牌的知名度。创意方面用C4D建模各类线缆、元件、PCB电路等IT硬件元素组合成“KEYIYOU”的英文造型。</p>
 </div>
 
 
@@ -204,15 +204,9 @@
 				<category><![CDATA[Works]]></category>
 		<guid isPermaLink="false">/?p=273</guid>
 
-					<description><![CDATA[作为商务竞标的风格稿，甲方并没有提供完整的PRD和原型。]]></description>
+					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-10 wp-block-group-is-layout-flex">
-<p class="is-style-default has-small-font-size">作为商务竞标的风格稿，甲方并没有提供完整的PRD和原型。</p>
-</div>
-
-
-
-<div class="wp-block-group alignwide is-vertical is-content-justification-center is-layout-flex wp-container-11 wp-block-group-is-layout-flex">
+<div class="wp-block-group alignwide is-vertical is-content-justification-center is-layout-flex wp-container-10 wp-block-group-is-layout-flex">
 <figure class="wp-block-image alignwide size-full"><img decoding="async" loading="lazy" width="1440" height="900" src="/wp-content/uploads/2023/10/画板-1-副本-2-50.jpg" alt="" class="wp-image-274" srcset="/wp-content/uploads/2023/10/画板-1-副本-2-50.jpg 1440w, /wp-content/uploads/2023/10/画板-1-副本-2-50-300x188.jpg 300w, /wp-content/uploads/2023/10/画板-1-副本-2-50-1024x640.jpg 1024w, /wp-content/uploads/2023/10/画板-1-副本-2-50-768x480.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /><figcaption class="wp-element-caption"><sup><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">数据概览</mark></sup></figcaption></figure>
 
 
@@ -239,13 +233,13 @@
 
 					<description><![CDATA[“跨文化那点事儿”是我的一个在高校任职的朋友独创的一门课程。其实说是一门课程，它更像是一场中外文化交流的论坛。 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-12 wp-block-group-is-layout-flex">
-<p class="has-small-font-size">“跨文化那点事儿”是我的一个在高校任职的朋友独创的一门课程。其实说是一门课程，它更像是一场中外文化交流的论坛。众多的中国学生能有机会和各国的留学生交流自己故乡的生活习惯和风土民情。<br>鸡同鸭讲这个词儿有完全没法沟通的意味，而“鸡鸭同讲”的创意是这位老师自己的点子，哈哈…… 意在不管语言上有多大的障碍，观念上有多大的差别，也不妨害各大家愉快的交流。<br>教材的封面配色和风格采用了古代天方，也就是现在中东、西亚一代的民族风格。原因也很简单，自古天方即是东西方经济、文化交流的中心。</p>
+<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-11 wp-block-group-is-layout-flex">
+<p class="has-primary-color has-text-color has-small-font-size">“跨文化那点事儿”是我的一个在高校任职的朋友独创的一门课程。其实说是一门课程，它更像是一场中外文化交流的论坛。众多的中国学生能有机会和各国的留学生交流自己故乡的生活习惯和风土民情。<br>鸡同鸭讲这个词儿有完全没法沟通的意味，而“鸡鸭同讲”的创意是这位老师自己的点子，哈哈…… 意在不管语言上有多大的障碍，观念上有多大的差别，也不妨害各大家愉快的交流。<br>教材的封面配色和风格采用了古代天方，也就是现在中东、西亚一代的民族风格。原因也很简单，自古天方即是东西方经济、文化交流的中心。</p>
 </div>
 
 
 
-<div class="wp-block-group alignwide is-content-justification-center is-nowrap is-layout-flex wp-container-13 wp-block-group-is-layout-flex">
+<div class="wp-block-group alignwide is-content-justification-center is-nowrap is-layout-flex wp-container-12 wp-block-group-is-layout-flex">
 <figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" width="1080" height="1080" src="/wp-content/uploads/2023/10/画板-1-80.jpg" alt="" class="wp-image-443" style="width:1080px" srcset="/wp-content/uploads/2023/10/画板-1-80.jpg 1080w, /wp-content/uploads/2023/10/画板-1-80-300x300.jpg 300w, /wp-content/uploads/2023/10/画板-1-80-1024x1024.jpg 1024w, /wp-content/uploads/2023/10/画板-1-80-150x150.jpg 150w, /wp-content/uploads/2023/10/画板-1-80-768x768.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
 </div>
 
@@ -272,8 +266,8 @@
 
 
 
-<div class="wp-block-group alignwide is-vertical is-content-justification-center is-layout-flex wp-container-14 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1920" height="1280" src="/wp-content/uploads/2023/10/iPhone6_2.jpg" alt="" class="wp-image-303" srcset="/wp-content/uploads/2023/10/iPhone6_2.jpg 1920w, /wp-content/uploads/2023/10/iPhone6_2-300x200.jpg 300w, /wp-content/uploads/2023/10/iPhone6_2-1024x683.jpg 1024w, /wp-content/uploads/2023/10/iPhone6_2-768x512.jpg 768w, /wp-content/uploads/2023/10/iPhone6_2-1536x1024.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+<div class="wp-block-group alignwide is-vertical is-content-justification-center is-layout-flex wp-container-13 wp-block-group-is-layout-flex">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" width="1920" height="1280" src="/wp-content/uploads/2023/10/iPhone6_2.jpg" alt="" class="wp-image-303" style="width:1440px" srcset="/wp-content/uploads/2023/10/iPhone6_2.jpg 1920w, /wp-content/uploads/2023/10/iPhone6_2-300x200.jpg 300w, /wp-content/uploads/2023/10/iPhone6_2-1024x683.jpg 1024w, /wp-content/uploads/2023/10/iPhone6_2-768x512.jpg 768w, /wp-content/uploads/2023/10/iPhone6_2-1536x1024.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
 
 
 
@@ -311,7 +305,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-group alignwide is-vertical is-content-justification-center is-layout-flex wp-container-15 wp-block-group-is-layout-flex">
+<div class="wp-block-group alignwide is-vertical is-content-justification-center is-layout-flex wp-container-14 wp-block-group-is-layout-flex">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1440" height="1080" src="/wp-content/uploads/2023/10/his-9.jpg" alt="" class="wp-image-449" srcset="/wp-content/uploads/2023/10/his-9.jpg 1440w, /wp-content/uploads/2023/10/his-9-300x225.jpg 300w, /wp-content/uploads/2023/10/his-9-1024x768.jpg 1024w, /wp-content/uploads/2023/10/his-9-768x576.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /><figcaption class="wp-element-caption"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color"><sup>病房医生站——手术排班计划</sup></mark></figcaption></figure>
 
 
@@ -321,7 +315,7 @@
 
 
 
-<div class="wp-block-group alignwide is-vertical is-content-justification-center is-layout-flex wp-container-16 wp-block-group-is-layout-flex">
+<div class="wp-block-group alignwide is-vertical is-content-justification-center is-layout-flex wp-container-15 wp-block-group-is-layout-flex">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1440" height="1080" src="/wp-content/uploads/2023/10/his-3-1.jpg" alt="" class="wp-image-451" srcset="/wp-content/uploads/2023/10/his-3-1.jpg 1440w, /wp-content/uploads/2023/10/his-3-1-300x225.jpg 300w, /wp-content/uploads/2023/10/his-3-1-1024x768.jpg 1024w, /wp-content/uploads/2023/10/his-3-1-768x576.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /><figcaption class="wp-element-caption"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color"><sup>住院诊断-工作台</sup></mark></figcaption></figure>
 
 
@@ -344,8 +338,8 @@
 
 					<description><![CDATA[“骰客 Toker”是一本以桌游及周边文化为内容的刊物,取义桌游中常见的标志物token。它从不同主题和不同的 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-17 wp-block-group-is-layout-flex">
-<p>“骰客 Toker”是一本以桌游及周边文化为内容的刊物,取义桌游中常见的标志物token。<br>它从不同主题和不同的视角对某一款桌游及其相关文化进行介绍或评述，并对他的故事背景延展开来探讨。<br>这是一本以民间桌游团体自娱为目的的自发刊物，旨在和更多朋友分享快乐、传播桌游文化，不含商业性广告成分和防腐剂:)</p>
+<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-16 wp-block-group-is-layout-flex">
+<p class="has-primary-color has-text-color has-small-font-size">“骰客 Toker”是一本以桌游及周边文化为内容的刊物,取义桌游中常见的标志物token。<br>它从不同主题和不同的视角对某一款桌游及其相关文化进行介绍或评述，并对他的故事背景延展开来探讨。<br>这是一本以民间桌游团体自娱为目的的自发刊物，旨在和更多朋友分享快乐、传播桌游文化，不含商业性广告成分和防腐剂:)</p>
 </div>
 
 
@@ -383,7 +377,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-gallery alignwide has-nested-images columns-default is-cropped wp-block-gallery-18 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery alignwide has-nested-images columns-default is-cropped wp-block-gallery-17 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="960" height="720" data-id="420" src="/wp-content/uploads/2023/10/mqpf22.jpg" alt="" class="wp-image-420" srcset="/wp-content/uploads/2023/10/mqpf22.jpg 960w, /wp-content/uploads/2023/10/mqpf22-300x225.jpg 300w, /wp-content/uploads/2023/10/mqpf22-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
 
 
@@ -414,7 +408,7 @@
 
 
 
-<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-20 wp-block-group-is-layout-flex">
+<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-19 wp-block-group-is-layout-flex">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1366" height="768" src="/wp-content/uploads/2023/10/监督检查.jpg" alt="" class="wp-image-266" srcset="/wp-content/uploads/2023/10/监督检查.jpg 1366w, /wp-content/uploads/2023/10/监督检查-300x169.jpg 300w, /wp-content/uploads/2023/10/监督检查-1024x576.jpg 1024w, /wp-content/uploads/2023/10/监督检查-768x432.jpg 768w" sizes="(max-width: 1366px) 100vw, 1366px" /><figcaption class="wp-element-caption"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color"><sup>对下属单位网络系统监督检查</sup></mark></figcaption></figure>
 
 
@@ -424,7 +418,7 @@
 
 
 
-<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-21 wp-block-group-is-layout-flex">
+<div class="wp-block-group alignwide is-nowrap is-layout-flex wp-container-20 wp-block-group-is-layout-flex">
 <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1366" height="768" src="/wp-content/uploads/2023/10/通报处置.jpg" alt="" class="wp-image-268" srcset="/wp-content/uploads/2023/10/通报处置.jpg 1366w, /wp-content/uploads/2023/10/通报处置-300x169.jpg 300w, /wp-content/uploads/2023/10/通报处置-1024x576.jpg 1024w, /wp-content/uploads/2023/10/通报处置-768x432.jpg 768w" sizes="(max-width: 1366px) 100vw, 1366px" /><figcaption class="wp-element-caption"><sup><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-primary-color">网络安全事件的实时资讯及处置</mark></sup></figcaption></figure>
 
 

@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	“Resonance.”的评论	</title>
+	“Resonance.谐振”的评论	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>5even.me</description>
-	<lastBuildDate>Wed, 01 Nov 2023 06:04:47 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Mar 2024 23:50:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 </channel>
 </rss>
